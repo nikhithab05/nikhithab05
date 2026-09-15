@@ -2,7 +2,7 @@
 
 <img src="https://nikhithabilla05.github.io/nikhitha-billa.jpeg" alt="Nikhitha Billa" width="180" align="right">
 
-**Data Engineer | Python · SQL · Spark | Cloud Data Platforms & AI Retrieval**
+**Data Engineer | Python · SQL · Spark · Scala | Cloud Data Platforms & AI Retrieval**
 
 I work on data pipelines, analytics, and embedding-based retrieval systems. I bring experience, with a focus on transforming complex data into reliable foundations for analytics and discovery.
 
