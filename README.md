@@ -4,7 +4,7 @@
 
 **Data Engineer | Python · SQL · Spark | Cloud Data Platforms & AI Retrieval**
 
-I work on data pipelines, analytics, and embedding-based retrieval systems. I bring approximately 2½ years of experience, with a focus on transforming complex data into reliable foundations for analytics and discovery.
+I work on data pipelines, analytics, and embedding-based retrieval systems. I bring experience, with a focus on transforming complex data into reliable foundations for analytics and discovery.
 
 **[Explore my portfolio](https://nikhithabilla05.github.io/)** · **[Connect on LinkedIn](https://www.linkedin.com/in/nikhitha7852/)**
 
