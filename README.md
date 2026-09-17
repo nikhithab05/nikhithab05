@@ -5,7 +5,7 @@
 
 I work on data pipelines, analytics, and embedding-based retrieval systems. I bring experience, with a focus on transforming complex data into reliable foundations for analytics and discovery.
 
-**[Explore my portfolio](https://nikhithab05.github.io/)** · **[Connect on LinkedIn](https://www.linkedin.com/in/nikhitha7852/)**
+**[Explore my portfolio](https://nikhithab05.github.io/)** · **[Connect on LinkedIn](https://www.linkedin.com/in/nikhitha469/)**
 
 ## Experience
 
@@ -54,4 +54,4 @@ June 2018 – May 2022 · Hyderabad, India
 
 ## Connect
 
-I'm interested in data engineering, cloud platforms, and practical AI retrieval systems. [Find me on LinkedIn](https://www.linkedin.com/in/nikhitha7852/).
+I'm interested in data engineering, cloud platforms, and practical AI retrieval systems. [Find me on LinkedIn](https://www.linkedin.com/in/nikhitha469/).
