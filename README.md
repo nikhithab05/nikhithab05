@@ -1,12 +1,11 @@
-# Hi, I'm Nikhitha Billa
 
+# Hi, I'm Nikhitha
 
-
-**Data Engineer | Python · SQL · Spark · Scala | Cloud Data Platforms & AI Retrieval**
+**Data Engineer | Python · SQL · Spark | Cloud Data Platforms & AI Retrieval**
 
 I work on data pipelines, analytics, and embedding-based retrieval systems. I bring experience, with a focus on transforming complex data into reliable foundations for analytics and discovery.
 
-**[Explore my portfolio](https://nikhithabilla05.github.io/)** · **[Connect on LinkedIn](https://www.linkedin.com/in/nikhitha7852/)**
+**[Explore my portfolio](https://nikhithab05.github.io/)** · **[Connect on LinkedIn](https://www.linkedin.com/in/nikhitha7852/)**
 
 ## Experience
 
@@ -34,7 +33,7 @@ I work on data pipelines, analytics, and embedding-based retrieval systems. I br
 | **Retail Virtual Agent** | Built an NLP-based retail assistant using Dialogflow CX to address repetitive customer inquiries. |
 | **Crash Data Analytics Capstone** | Explored crash trends and weather patterns through exploratory analysis and predictive modeling. |
 
-Completed at the **University of North Texas**. [Read project summaries →](https://nikhithabilla05.github.io/#projects)
+Completed at the **University of North Texas**. [Read project summaries →](https://nikhithab05.github.io/#projects)
 
 ## Technical toolkit
 
