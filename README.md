@@ -1,6 +1,6 @@
 # Hi, I'm Nikhitha Billa
 
-<img src="https://nikhithabilla05.github.io/nikhitha-billa.jpeg" alt="Nikhitha Billa" width="180" align="right">
+
 
 **Data Engineer | Python · SQL · Spark · Scala | Cloud Data Platforms & AI Retrieval**
 
